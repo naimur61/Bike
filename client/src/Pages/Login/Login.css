@@ -1,0 +1,13 @@
+.login-form {
+	line-height: 20px;
+	animation: down 0.4s;
+}
+
+@keyframes down {
+	from {
+		transform: scale(0);
+	}
+	to {
+		transform: scale(1);
+	}
+}

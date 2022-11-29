@@ -1,0 +1,16 @@
+#card-text p {
+	font-size: 12px;
+	font-weight: 700;
+	color: rgb(125, 125, 125);
+}
+
+#card-text h2 {
+	font-family: "Philosopher", sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+
+.card-img {
+	max-height: 450px;
+}
